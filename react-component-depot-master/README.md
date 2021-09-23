@@ -1,5 +1,5 @@
 
-# Welcome to react-component-depot!
+# Welcome
  
 
 # Tutorials
